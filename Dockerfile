@@ -8,4 +8,4 @@ ADD . /app
 
 RUN go build ./.
 
-CMD ["./app"]
+CMD ["./aws-face-rekognition"]
